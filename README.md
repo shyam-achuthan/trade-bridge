@@ -21,7 +21,7 @@ OrderProvider is a unified interface for managing trading orders across multiple
 ## Installation
 
 ```bash
-npm install @profitolio/order-provider
+npm install @shyamachuthan/order-provider
 ```
 
 ## Dependencies
